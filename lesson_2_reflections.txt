@@ -1,0 +1,4 @@
+What happens when you initialise a repository? 
+When you initialise a repository git create .git folder to keep track of the history
+Why do you need to do it? 
+Otherwise it is not a repository
